@@ -1,6 +1,6 @@
 {
-    "name": "T-ICO",
-    "description": "T-ICO",
+    "name": "timereally",
+    "description": "",
     "keywords": ["vss mes."],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站",
-            "value": "f20bef40-c1b5-4b70-bd21-85f69a407c11"
+            "value": "98749a64-8bc9-44de-99bc-0e963da59154"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面",
